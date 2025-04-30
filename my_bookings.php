@@ -39,7 +39,7 @@ $result = mysqli_stmt_get_result($stmt);
         <li><a href="my_bookings.php">My Bookings</a></li>
         <li><a href="owner_bookings.php">Bookings for My Vehicles</a></li> 
         <li><a href="testinomials.php">Reviews</a></li> 
-        <li><a href="profiles.php">Profile</a></li> 
+        <li><a href="profile.php">Profile</a></li> 
         <li><a href="logout.php">Logout</a></li>
     </ul>
 </nav>
