@@ -31,7 +31,7 @@ session_start();
     }
 } else {
 ?>
-<h1 style="font-size:45px;text-align:center">Vechicle Rental System </h1>  
+<h1 style="font-size:45px;text-align:center">Vehicle Rental System </h1>  
     <form class="form" method="post" name="login">
         <h1 class="login-title">Login</h1>
         <input type="text" class="login-input" name="username" placeholder="Username"/>
